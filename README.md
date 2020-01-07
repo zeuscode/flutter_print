@@ -21,7 +21,7 @@ dependencies:
  print_pda: ^0.1.1
 ```
 
-## Scan Usage example
+## Print Usage example
 ```dart
 import 'package:flutter/material.dart';
 import 'dart:async';
